@@ -1,0 +1,7 @@
+{
+  "name": "Ghostwriter AI: Social Sim",
+  "description": "A high-stakes social engineering game where you ghostwrite the perfect (or most chaotic) texts for frantic clients to manage their drama.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
